@@ -1,10 +1,11 @@
-SOP EDITOR WEB V1.1 AUTO
+SOP EDITOR WEB V1.3 FULL PREVIEW
 
-- Chạy trên Chrome/Edge, không cần Microsoft Word PC.
-- Mở file .DOC và tự nhận diện nội dung cũ: tên cơ sở, địa chỉ, người phụ trách, ngày ban hành.
-- Hiển thị số vị trí tìm thấy; người dùng chủ yếu chỉ nhập nội dung MỚI.
-- Tự nhận diện danh sách SOP, chọn SOP cần giữ/xóa.
-- Tự xóa dòng mục lục, đánh lại STT và dồn khoảng số trang.
-- Xuất file .DOC mới, giữ file gốc.
-
-Cách dùng: mở index.html bằng Chrome/Edge. Lần đầu cần Internet để tải bộ đọc/ghi .DOC.
+1. Mở file: MO_PHAN_MEM_V1_3.html bằng Chrome/Edge.
+2. Nhìn góc trên phải tiêu đề phải thấy: MỚI · XEM TOÀN BỘ.
+3. Phía trên luôn có 4 nút:
+   - MỞ SOP PHÒNG KHÁM
+   - MỞ SOP QUẦY THUỐC
+   - MỞ SOP NHÀ THUỐC
+   - MỞ SOP CÔNG TY DƯỢC / GDP
+4. Tab TOÀN BỘ TÀI LIỆU hiển thị toàn bộ nội dung sau chỉnh sửa trước khi xuất.
+5. Nếu đang dùng bản cũ, đóng tab cũ và mở file MO_PHAN_MEM_V1_3.html trong thư mục bản V1.3 mới.
