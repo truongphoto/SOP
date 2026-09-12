@@ -1,4 +1,4 @@
-const C='sop-editor-v1-3-full-preview';
+const C='sop-editor-v1-4-compact';
 self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(['./manifest.json','./icon.svg'])))});
 self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const k of await caches.keys())if(k!==C)await caches.delete(k);await self.clients.claim()})()));
 self.addEventListener('fetch',e=>{
