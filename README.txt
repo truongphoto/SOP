@@ -1,11 +1,10 @@
-SOP EDITOR WEB V1
-=================
-1) Giải nén thư mục.
-2) Mở file index.html bằng Chrome hoặc Edge.
-3) Kéo file .DOC vào phần mềm.
-4) Bỏ dấu tích SOP không cần, nhập thông tin cũ -> mới nếu muốn thay.
-5) Kiểm tra tab "Mục lục sau chỉnh" rồi bấm "Xuất file .DOC mới".
+SOP EDITOR WEB V1.1 AUTO
 
-Không cần Microsoft Word cài trên PC.
-Lưu ý: lần đầu mở cần có Internet để tải bộ xử lý .DOC từ CDN. Nếu đưa lên GitHub Pages/Vercel, ứng dụng có thể cài như PWA.
-V1 ưu tiên xóa CẢ SOP. Xóa trang lẻ theo bố cục vật lý sẽ bổ sung sau khi chốt cấu trúc các mẫu Nhà thuốc / Quầy thuốc / GDP.
+- Chạy trên Chrome/Edge, không cần Microsoft Word PC.
+- Mở file .DOC và tự nhận diện nội dung cũ: tên cơ sở, địa chỉ, người phụ trách, ngày ban hành.
+- Hiển thị số vị trí tìm thấy; người dùng chủ yếu chỉ nhập nội dung MỚI.
+- Tự nhận diện danh sách SOP, chọn SOP cần giữ/xóa.
+- Tự xóa dòng mục lục, đánh lại STT và dồn khoảng số trang.
+- Xuất file .DOC mới, giữ file gốc.
+
+Cách dùng: mở index.html bằng Chrome/Edge. Lần đầu cần Internet để tải bộ đọc/ghi .DOC.
